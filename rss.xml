@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DryFlyGirl]]></title>
         <description><![CDATA[DryFlyGirl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dryflygirl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 05:37:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 07:14:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dryflygirl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1eb75bac-166d-4e20-9e1a-b6162c6879db.jpg">]]></description>
+            <link>https://thegrid.ai/dryflygirl/db6294a3-8c5d-43a0-9686-aab81676870b/index.html</link>
+            <guid isPermaLink="false">db6294a3-8c5d-43a0-9686-aab81676870b</guid>
+            <pubDate>Fri, 06 May 2016 07:13:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/090ab305-5e66-4b44-a910-2d5d6d336541.jpg">]]></description>
-            <link>undefinedgetting-hooked/index.html</link>
+            <link>https://thegrid.ai/dryflygirl/getting-hooked/index.html</link>
             <guid isPermaLink="false">93a5e9e0-fbf0-4857-9d9e-fb3135584822</guid>
             <pubDate>Fri, 06 May 2016 05:37:35 GMT</pubDate>
         </item>
