@@ -1,3 +1,7 @@
+name: DryFlyGirl
+favicon: null
+layout_spectrum: 0.78356
+typography_spectrum: 0.7180451
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8694951
-  brandStrength: 0
-  lightness: 0.6836735
   brandColors:
     - '#66CCFF'
     - '#CEFEFE'
     - '#000208'
     - '#6085A2'
     - '#A71132'
+  brandStrength: 0
+  lightness: 0.6836735
+  saturation: 0.8694951
   rhythmicContrast: 0.7577873
-typography_spectrum: 0.7180451
-layout_spectrum: 0.9844254
-name: DryFlyGirl
+purpose: []
