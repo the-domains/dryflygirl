@@ -1,14 +1,26 @@
-layout_spectrum: 0.9844254
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8694951
   brandStrength: 0
   lightness: 0.6836735
   brandColors:
-    - '#AAAAAA'
-    - '#8F8F91'
-    - '#896C4A'
-    - '#E9E9E1'
-    - '#4B4430'
+    - '#66CCFF'
+    - '#CEFEFE'
+    - '#000208'
+    - '#6085A2'
+    - '#A71132'
   rhythmicContrast: 0.7577873
 typography_spectrum: 0.7180451
+layout_spectrum: 0.9844254
 name: DryFlyGirl
